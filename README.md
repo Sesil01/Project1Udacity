@@ -1,5 +1,5 @@
 # Project1Udacity
-This is my first repo for "Write a Data Science Blog Post" project in Udacity Data Scientist Nano Degree Program. 
+This is my first repo for the "Write a Data Science Blog Post" project in Udacity Data Scientist Nano Degree Program. 
 Analysis of "Property with the lowest review" in Seattle, WA in Airbnb.
 
 Table of Content
@@ -23,7 +23,7 @@ The conclusion to be obtained is to find out what improvements need to be made b
 The dataset used comes fromSeattle Airbnb Open Data. The dataset describes the listing activity of homestays in Seattle, WA. You can download [here](https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv)
 
 ## Results<a name="Results"></a>
-You can check the code and results in 
+You can check the code in 'project udacity 1' notebook and results in my blog [here](https://medium.com/@sesilianw01/property-with-the-lowest-review-c3f4b90bc381)
 
 ## Licensing, Authors, and Acknowledgements<a name="Licensing"></a>
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv)
