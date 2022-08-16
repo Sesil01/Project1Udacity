@@ -26,7 +26,8 @@ The dataset used comes fromSeattle Airbnb Open Data. The dataset describes the l
 You can check the code in 'project udacity 1' notebook and results in my blog [here](https://medium.com/@sesilianw01/property-with-the-lowest-review-c3f4b90bc381)
 
 ## Licensing, Authors, and Acknowledgements<a name="Licensing"></a>
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv)
-Thanks to 
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv).
+
+###Thanks to 
 ![udacity_share-317a7f82552763598a5c91e1550b7cd83663ce02d6d475d703e25a873cd3b574](https://user-images.githubusercontent.com/110796336/184758673-b6443995-f423-4f10-998c-5d63e726713e.png)
 ![Airbnb_Logo_Bélo svg](https://user-images.githubusercontent.com/110796336/184758362-43b666bc-8f5e-4086-bc73-3ae3cb572594.png) 
