@@ -28,5 +28,5 @@ You can check the code and results in
 ## Licensing, Authors, and Acknowledgements<a name="Licensing"></a>
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv)
 Thanks to 
-![png-transparent-udacity-nanodegree-education-course-learning-others-blue-text-logo](https://user-images.githubusercontent.com/110796336/184758610-6aaa04d7-058d-47a1-87b8-4b818e45a9c7.png)
+![udacity_share-317a7f82552763598a5c91e1550b7cd83663ce02d6d475d703e25a873cd3b574](https://user-images.githubusercontent.com/110796336/184758673-b6443995-f423-4f10-998c-5d63e726713e.png)
 ![Airbnb_Logo_Bélo svg](https://user-images.githubusercontent.com/110796336/184758362-43b666bc-8f5e-4086-bc73-3ae3cb572594.png) 
